@@ -1,4 +1,4 @@
-# Howto deploy a (room based) load balanced cluster
+# How to deploy a (room based) load balanced cluster
 
 This example will show how to setup an HA proxy to provide load balancing between several
 edumeet servers.
